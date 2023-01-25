@@ -6,3 +6,8 @@
 - 🌙 Pronouns: she/her
 - 📚 Fun fact: I 💙 comic books.
 
+<div>
+  <a href="https://github.com/paulacode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codepaula&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepaula">
+</div>
