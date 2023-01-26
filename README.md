@@ -11,6 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=codepaula&show_icons=true&theme=transparent">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codepaula">
 </div>
+  
 <div style-"display: inline_block"><br>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
