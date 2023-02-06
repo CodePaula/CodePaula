@@ -1,7 +1,15 @@
+### Olá! 👩‍💻 Eu sou a Paula.
+
+- 🚀 Estou aberta para desafios profissionais na área tech.
+- 💻 No momento, estou aprendendo Python, lógica de programação e desenvolvimento de sistemas.
+- 📫 Como me contatar: https://www.linkedin.com/in/paula-yagnycz-00a785186/
+- 🌙 Pronomes: ela/dela
+- 📚 Fato divertido: eu 💙 HQs.
+
 ### Hi, there! 👩‍💻 I'm Paula.
 
-- 🚀 I’m currently open to professional challenges in tech area.
-- 💻 I’m currently learning Python, programming logic and systems development.
+- 🚀 I’m open to professional challenges in tech area.
+- 💻 Currently, I'm learning Python, programming logic and systems development.
 - 📫 How to reach me: https://www.linkedin.com/in/paula-yagnycz-00a785186/
 - 🌙 Pronouns: she/her
 - 📚 Fun fact: I 💙 comic books.
