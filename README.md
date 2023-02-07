@@ -27,3 +27,5 @@
  <a href="https://www.linkedin.com/in/paula-yagnycz-00a785186/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:paula.y.letras@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
+  
+ <img src = "https://media4.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif?cid=ecf05e4762onev9ocwcg10bpylaw3thblepu27uk75jioqmt&rid=giphy.gif&ct=g" width = "1500" height = "150">
