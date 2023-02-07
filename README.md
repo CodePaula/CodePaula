@@ -35,5 +35,5 @@
 </div>
 
 <div align="center">
-  <p>Helpful contents: 💙 <a href="https://www.youtube.com/watch?v=5MM42-j7QzQ">iCode Developer</a> e <a href="https://www.youtube.com/watch?v=TsaLQAetPLU">Rafaella Ballerini</a></p>
+  <p>Helpful contents: 💙 <a href="https://www.youtube.com/watch?v=5MM42-j7QzQ">iCode Developer</a> and <a href="https://www.youtube.com/watch?v=TsaLQAetPLU">Rafaella Ballerini</a></p>
 </div>
