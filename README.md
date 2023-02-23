@@ -21,6 +21,7 @@
   
 <div align="center" valign="top"><br>
   <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div><br>
   
 <div align="center">
