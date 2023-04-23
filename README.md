@@ -1,13 +1,13 @@
 ### Olá! 👩‍💻 Eu sou a Paula.
 
-- 🚀 Estou aberta para desafios profissionais na área tech.
+- 🚀 Estou aberta para desafios profissionais.
 - 💻 No momento, estou aprendendo Python, Java, lógica de programação e desenvolvimento de sistemas.
 - 🌙 Pronomes: ela/dela
 - 📚 Fato divertido: eu 💙 HQs.
 
 ### Hi, there! 👩‍💻 I'm Paula.
 
-- 🚀 I’m open to professional challenges in tech area.
+- 🚀 I’m open to professional challenges.
 - 💻 Currently, I'm learning Python, Java, programming logic and systems development.
 - 🌙 Pronouns: she/her
 - 📚 Fun fact: I 💙 comic books.
